@@ -1,0 +1,7 @@
+requests
+pandas
+pyarrow
+python-dotenv
+pytest
+azure-storage-blob
+azure-identity
