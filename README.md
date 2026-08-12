@@ -95,7 +95,7 @@ The automated workflow subsequently processed an additional monthly partition. T
 
 ## Dashboard
 
-![Urban Mobility Dashboard](./dashboard.png)
+![Urban Mobility Dashboard](docs/dashboard.png)
 
 The dashboard presents:
 
